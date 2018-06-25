@@ -10,6 +10,7 @@ REM cleanup root director
 
     rmdir /S /Q Debug
     rmdir /S /Q Release
+	rmdir /S /Q x64
     rmdir /S /Q ipch
     rmdir /S /Q .vs
 
@@ -23,6 +24,7 @@ REM walk through subdirectories delete generated subdirectories
 for /d %%D in (*) do (
 	echo %%~fD
 	rmdir /S /Q %%~D\Debug
+	rmdir /S /Q %%~D\x64
 	rmdir /S /Q %%~D\Release
 	rmdir /S /Q %%~D\bin
 	rmdir /S /Q %%~D\obj
