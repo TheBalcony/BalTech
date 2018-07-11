@@ -1,9 +1,6 @@
 # MoneyBadger
 
-#I have added this line - Rob 
-
-<<<<<<< HEAD
-#This is another change - Rob
+Update for slack
 
 #I canz make Changezez - Matt
 =======
