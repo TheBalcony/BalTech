@@ -1,12 +1,5 @@
 # MoneyBadger
 
-Update for slack
+A C++ CME Trading FrontEnd
 
-#I canz make Changezez - Matt
-=======
-#This is another change - ERIC
->>>>>>> 6c8e57940acea097e20a275d8639bae9383d0579
-
-
-
-#JAP330
+This product includes software developed by quickfixengine.org (http://www.quickfixengine.org/).
